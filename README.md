@@ -1,3 +1,12 @@
+### Hi there, I'm Antoine!
+
+I'm a PhD student at [LRDE](https://lrde.epita.fr), working on [Spot](https://spot.lrde.epita.fr).
+
+#### Projects I'd like to contribute to a bit more, when I have time
+
+- [Rust](https://github.com/rust-lang/rust)
+- [Doom Emacs](https://github.com/hlissner/doom-emacs)
+
 ![Antoine's github stats](https://github-readme-stats.vercel.app/api?username=alarsyo&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alarsyo&hide=css,html&layout=compact)
 
