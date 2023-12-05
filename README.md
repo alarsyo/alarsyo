@@ -1,6 +1,6 @@
 ### Hi there, I'm Antoine!
 
-I'm a PhD student at [LRDE](https://lrde.epita.fr), working on [Spot](https://spot.lrde.epita.fr).
+I'm a PhD student at [LRE](https://www.lde.epita.fr), working on [Spot](https://spot.lre.epita.fr).
 
 #### Projects I'd like to contribute to a bit more, when I have time
 
