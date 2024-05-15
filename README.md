@@ -2,9 +2,10 @@
 
 I'm a PhD student at [LRE](https://www.lre.epita.fr), working on [Spot](https://spot.lre.epita.fr).
 
-#### Projects I'd like to contribute to a bit more, when I have time
+#### Projects I like to contribute to, when I have time
 
 - [Rust](https://github.com/rust-lang/rust)
+- [Nix](https://github.com/NixOS/nixpkgs)
 - [Doom Emacs](https://github.com/hlissner/doom-emacs)
 
 ![Antoine's github stats](https://github-readme-stats.vercel.app/api?username=alarsyo&hide_border=true)
