@@ -1,9 +1,10 @@
 ### Hi there, I'm Antoine!
 
-I'm a PhD student at [LRE](https://www.lre.epita.fr), working on [Spot](https://spot.lre.epita.fr).
+I've just completed a PhD at [LRE](https://www.lre.epita.fr), working on [Spot](https://spot.lre.epita.fr).
 
 #### Projects I like to contribute to, when I have time
 
+- [JJ](https://github.com/jj-vcs/jj)
 - [Rust](https://github.com/rust-lang/rust)
 - [Nix](https://github.com/NixOS/nixpkgs)
 - [Doom Emacs](https://github.com/hlissner/doom-emacs)
