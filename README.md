@@ -9,8 +9,8 @@ I've just completed a PhD at [LRE](https://www.lre.epita.fr), working on [Spot](
 - [Nix](https://github.com/NixOS/nixpkgs)
 - [Doom Emacs](https://github.com/hlissner/doom-emacs)
 
-![Antoine's github stats](https://github-readme-stats.vercel.app/api?username=alarsyo&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alarsyo&hide=css,html&layout=compact)
+![Antoine's github stats](./profile/stats.svg)
+![Top Langs](./profile/langs.svg)
 
 <!--
 **alarsyo/alarsyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
